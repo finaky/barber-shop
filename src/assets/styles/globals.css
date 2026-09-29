@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --background: #111111;
+  --foreground: #fff;
+  --accent: rgb(221, 188, 120);
+}
+
+@theme {
+  --color-accent: rgb(221, 188, 120);
+  --font-georgia: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
