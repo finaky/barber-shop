@@ -7,7 +7,7 @@ export const Services = () => {
     <section className="mt-20">
       <SectionHeading title="Popularne usługi" desc="Cennik Gentlemen Kraków" />
 
-      <div className="grid 2xl:grid-cols-3 grid-cols-1 gap-8  mt-10">
+      <div className="grid 2xl:grid-cols-3 grid-cols-1 gap-8 justify-items-center mt-10">
         {popularServices.map((service) => (
           <ServiceBox key={service.name} service={service} />
         ))}

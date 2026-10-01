@@ -10,6 +10,14 @@ export interface IBadge {
   reviews: number;
 }
 
+export const benefits = [
+  "Premium jakość w każdym detalu",
+  "Topowe kosmetyki i narzędzia",
+  "Wyjątkowa atmosfera i klimat",
+  "Tysiące zadowolonych klientów",
+  "Prawie 100 salonów w całej Polsce",
+];
+
 export const navLinks = [
   {
     id: 0,

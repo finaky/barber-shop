@@ -9,6 +9,7 @@
 @theme {
   --color-accent: rgb(221, 188, 120);
   --font-georgia: Georgia, "Times New Roman", Times, serif;
+  --color-gray: rgb(245, 240, 230);
 }
 
 body {
