@@ -2,7 +2,7 @@ import { benefits } from "@/data/config";
 
 export const Benefits = () => {
   return (
-    <section className="w-full min-h-[200px] bg-[#181818] mt-24 grid lg:grid-cols-[3fr_4fr] p-10">
+    <section className="w-full min-h-[200px] bg-[#181818] mt-24 grid lg:grid-cols-[3fr_4fr] lg:p-10">
       <div>
         <h2 className="text-5xl font-semibold font-georgia">Dlaczego my?</h2>
         <p className="text-gray mt-24">

@@ -10,6 +10,7 @@
   --color-accent: rgb(221, 188, 120);
   --font-georgia: Georgia, "Times New Roman", Times, serif;
   --color-gray: rgb(245, 240, 230);
+  --color-dark-gray: rgb(188, 184, 173);
 }
 
 body {
