@@ -25,7 +25,7 @@ export const Navigation = () => {
         </ul>
 
         {/* TODO: */}
-        <div className="flex items-center gap-5">
+        <div className="lg:flex items-center gap-5">
           <a className="px-5 py-3 bg-linear-90 from-(--accent)/70 to-200% to-black/10 rounded-xl text-black border-2 border-black">
             Zarezerwuj online
           </a>

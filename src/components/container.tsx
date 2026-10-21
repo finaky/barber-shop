@@ -1,4 +1,5 @@
 import { Benefits } from "./benefits/benefits";
+import { Gallery } from "./gallery/gallery";
 import { Services } from "./services/services";
 import { Team } from "./team/team";
 
@@ -8,6 +9,7 @@ export const Container = () => {
       <Services />
       <Benefits />
       <Team />
+      <Gallery />
     </div>
   );
 };
